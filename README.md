@@ -1,2 +1,2 @@
 # StartupsProject
-Basic R coding for a Classification Problem
+Basic R coding for a Regression Problem
