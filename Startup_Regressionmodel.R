@@ -11,6 +11,7 @@ startup <- read.csv(choose.files())
 View(startup)
 startup1 <- startup
 View(startup1)
+View(startup)
 
 dim(startup)
 summary(startup)
